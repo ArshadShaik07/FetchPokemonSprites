@@ -1,6 +1,6 @@
 #Pokémon Search App
-<h4>A simple web application to search for Pokémon by name and display their image using the PokeAPI.
-</h4>
+<h3>A simple web application to search for Pokémon by name and display their image using the PokeAPI.
+</h3>
 
 <h3>Features</h3>
 <ul>
