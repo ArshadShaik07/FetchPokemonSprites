@@ -16,5 +16,4 @@
 HTML<br/>
 CSS<br/>
 JavaScript<br/>
-PokeAPI ![Alt text](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png)
- for fetching Pokémon data.
+PokeAPI for fetching Pokémon data.
