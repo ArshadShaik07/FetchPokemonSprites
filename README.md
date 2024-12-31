@@ -16,4 +16,4 @@
 HTML<br/>
 CSS<br/>
 JavaScript<br/>
-PokeAPI <img scr="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png" >for fetching Pokémon data.
+PokeAPI <img scr="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png" />for fetching Pokémon data.
