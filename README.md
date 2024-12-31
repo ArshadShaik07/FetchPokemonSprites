@@ -1,4 +1,4 @@
-##Pokémon Search App
+## Pokémon Search App
 <h3>A simple web application to search for Pokémon by name and display their image using the PokeAPI.
 </h3>
 
