@@ -23,6 +23,6 @@ function displayPokemon() {
       pokemonImg.style.display = "inline";
     })
     .catch((error) => {
-      console.error("Pokemon not found");
+      console.log("Pokemon not found");
     });
 }
